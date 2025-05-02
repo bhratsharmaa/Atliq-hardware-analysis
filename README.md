@@ -29,3 +29,8 @@ The goal is to equip the Sales Head with data-driven insights to make informed d
 
 6. **Built an Interactive Dashboard**  
    Designed and published an interactive dashboard in Tableau that brought all key insights together in a user-friendly format. Incorporated filters, tooltips, and interactive elements to allow stakeholders to explore the data dynamically and derive their own insights based on different parameters like region, product category, or time period.
+
+
+# Insights
+## Revenue by markets
+
